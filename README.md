@@ -1,2 +1,14 @@
-# pos-form
-St. Olaf Program of Study Form
+# St. Olaf POS
+
+## Getting Started
+
+```bash
+npm run dev
+npx run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
